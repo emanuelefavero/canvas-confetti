@@ -1,14 +1,14 @@
 import { useEffect } from 'react'
-import confetti from './utils/canvas-confetti'
+import canvasConfetti from './utils/canvas-confetti'
 
 export default function App() {
   useEffect(() => {
-    confetti()
+    canvasConfetti()
   }, [])
 
   return (
     <>
-      <button onClick={() => confetti()}>Launch Confetti</button>
+      <button onClick={() => canvasConfetti()}>Launch Confetti</button>
     </>
   )
 }

@@ -1,9 +1,9 @@
 // @see https://www.npmjs.com/package/canvas-confetti for other effects
-import confetti from 'canvas-confetti'
+import canvasConfetti from 'canvas-confetti'
 
 export default () => {
   // -< BASIC >-------------------------------------
-  confetti({
+  canvasConfetti({
     particleCount: 100,
     spread: 70,
     origin: { y: 0.6 },
