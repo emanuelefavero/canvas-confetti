@@ -2,6 +2,10 @@
 
 This is a cheat sheet for the [canvas-confetti](https://www.kirilv.com/canvas-confetti/) library
 
+## Demo
+
+- [https://emanuelefavero.github.io/canvas-confetti/](https://emanuelefavero.github.io/canvas-confetti/)
+
 ## How to use this repo
 
 - Clone this repo and `cd` into it
