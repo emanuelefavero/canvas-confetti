@@ -76,3 +76,7 @@ export default defineConfig({
 
 - [canvas-confetti](https://www.kirilv.com/canvas-confetti/)
 - [canvas-confetti on npm](https://www.npmjs.com/package/canvas-confetti)
+
+## License
+
+- [MIT](LICENSE.md)
